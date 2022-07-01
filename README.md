@@ -3,19 +3,8 @@
 <p>Welcome to my page! </br> I'm Nuria, Fullstack Developer student 💻  Always looking for new challenges. 
 Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
 
-<h3>Things I code with</h3>
+<h3>Me during this bootcamp</h3>
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 
 <div align="center"><img width="250px" src="https://i.imgur.com/99BZ8IU.gif" /></div>
 
@@ -35,7 +24,7 @@ Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
 
  </div>
  
- <div align="center"><img width="200px" src="https://i.imgur.com/fIg3VAZ.gif" /></div>
+ <div align="center"><img width="200px" src="https://imgur.com/gallery/nrOIlUm" /></div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
