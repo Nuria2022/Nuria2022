@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you. 👋</h1>
 
-<p>Welcome to my page! </br> I'm Alberto, Fullstack Developer 💻  Always enjoying new features and tools. 
-Toy collector 🦄 , fan of Rayo Vallecano 🚀  and proud father👼</p>
+<p>Welcome to my page! </br> I'm Nuria, Fullstack Developer student 💻  Always looking for new challenges. 
+Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
 
 <h3>Things I code with</h3>
 
