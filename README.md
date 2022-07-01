@@ -6,7 +6,7 @@ Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
 <h3>Me during this bootcamp</h3>
 
 
-<div align="center"><img width="250px" src="https://imgur.com/X2QwU4F" /></div>
+<div align="center"><img width="250px" src="https://i.imgur.com/99BZ8IU.gif" /></div>
 
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">I love science fiction, comics, video games, death metal and 3D printing.</h3>
