@@ -1,26 +1,25 @@
-<h1>Hey! Nice to see you. 👋</h1>
+<h1>Hey! How are you! 👋</h1>
 
 <p>Welcome to my page! </br> I'm Nuria, Fullstack Developer student 💻  Always looking for new challenges. 
 Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
 
-<h3>Me during this bootcamp</h3>
-
+<h3 align="center">Me during this bootcamp</h3>
 
 <div align="center"><img src="https://quotefancy.com/media/wallpaper/3840x2160/30538-Albert-Camus-Quote-Should-I-kill-myself-or-have-a-cup-of-coffee.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Albert Camus Quote: “Should I kill myself, or have a cup of coffee?”" data-noaft="1" style="width: 383px; height: 215.438px; margin: 0px;">/></div>
 
 
 
-<h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">I love science fiction, comics, video games, death metal and 3D printing.</h3>
+<h1 align="center">Hi 👋, I'm Nuria</h1>
+<h3 align="center">I love trekking, sports, travelling and spiritual wellness.</h3>
 
 <br />
 <div align="center">
  
-💻 I’m a Junior **Full Stack Developer** 
+💻 I’m a student **Full Stack Developer** 
 
-🤖 All of my projects are available at [https://lethamburn.vercel.app](https://lethamburn.vercel.app)
+🤖 I don´t have any project to share with you at the moment but I can´t wait to start my very first one 👏👏👏
 
-📫 How to reach me: antoniorosalesmartinez90@gmail.com
+📫 How to reach me: nuriaclemente15@gmail.com
 
 
 
