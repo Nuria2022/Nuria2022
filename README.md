@@ -1,4 +1,4 @@
-<h1>Hey! How are you! 👋</h1>
+<h1>Hey! How are you? 👋</h1>
 
 <p>Welcome to my page! </br> I'm Nuria, Fullstack Developer student 💻  Always looking for new challenges. 
 Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
