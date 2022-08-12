@@ -20,8 +20,6 @@ Fan of nature and pizza 🍕 and proud mother of Tequila and Lemon 🐶🐶</p>
  
 💻 I’m a student **Full Stack Developer** 
 
-🤖 I don´t have any project to share with you at the moment but I can´t wait to start my very first one 👏👏👏
-
 📫 How to reach me: nuriaclemente15@gmail.com
 
 
